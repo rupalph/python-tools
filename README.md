@@ -2,10 +2,9 @@
 
 ## Sample File Generator
 
-1. Create a Schema file
-
+###Create a Schema file
+<pre>
 Format for schema file
-
 COL_NUM,COL_NAME,TYPE,DESCRIPTION
 
 cust.csv
@@ -15,10 +14,11 @@ cust.csv
 2,FirstName,STRING,
 3,LastName,STRING,
 4,CreationDate,STRING,date of creation
+</pre>
 
-2. Update properties.py file
+###Update properties.py file
 
-3. Run the Tool
+###Run the Tool
 test_data_generator.py
 
-4. Verify the output file
+###Verify the output file
