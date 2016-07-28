@@ -33,7 +33,7 @@ def getDecimal (ctype):
 
 array = []
 #path to schema file
-path = properties. PATH
+path = properties.PATH
 primarykey = properties.PRIMARYKEY_SEED
 primarykeycol  =properties.PRIMARKYKEYS
 skipcolstr = properties.COLUMNS_TO_SKIP
